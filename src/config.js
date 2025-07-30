@@ -146,8 +146,7 @@ const config = {
 		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 	],
 
-	statement: ["备案号：<a href="https://icp.fatetech.top/id.php?keyword=1111111" target="_blank">
-       团ICP备11111111号</a>", "Copyright © 2025 Fate"],
+	statement: ["备案号：XXICP备123456789号", "Copyright © 2025 Leleo"],
 }
 
 export default config
