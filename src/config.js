@@ -28,8 +28,8 @@ const config = {
 			"type": "video",   //"pic":静态壁纸;"video":动态壁纸
 			"datainfo": {
 				"title": "向往航天的女孩",
-				"preview": "/img/wallpaper/static/向往航天的女孩/Toy-Aeroplane-pre.webm",
-				"url": "/img/wallpaper/static/向往航天的女孩/Toy-Aeroplane.webm",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
+				"preview": "/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane-pre.webm",
+				"url": "/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane.webm",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
 			},
 		},
 		"mobile": {   //移动端
